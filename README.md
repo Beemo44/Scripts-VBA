@@ -3,9 +3,8 @@
 
 #### Ce dépôt contient deux scripts VBA :
 
-    maccro_rh : Réalisation d'une tâche répétitive
-
-    maccro_ananlyse_de_couvertture : Analyser la couverture des besoins en quantité de matière sur le futur en fonction des stocks présent et des livraisons prévu.
+##### - maccro_rh : Réalisation d'une tâche répétitive
+##### - maccro_ananlyse_de_couvertture : Analyser la couverture des besoins en quantité de matière sur le futur en fonction des stocks présent et des livraisons prévu.
 
 #### 🛠️ Technologies utilisées
 
